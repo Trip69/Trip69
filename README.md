@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Trip69
 - 👀 I’m interested in coding php,js with MySQL backend.
 - 🌱 I’m currently learning whatever I don't know yet
-- 💞️ I’m looking to collaborate on ...
 - 📫 PM me on github for anything non project related.
 
 <!---
